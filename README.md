@@ -8,7 +8,7 @@ Eplusam is a game about math where you collect floating numbers. The goal of the
 # To do
 
 - [X] art
-- [ ] prototype (oh fu**)
+- [ ] prototype
 - [X] movement
 - [X] generation
 - [X] menu
