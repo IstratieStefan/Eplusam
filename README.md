@@ -1,4 +1,23 @@
-# EPLUSAM
-Welcome to Eplusam! An indie game made in Unity where you, a floating colored face tries to form mathematical equations and survive for as much time as possible. You can play a vast variety of scenarios and difficulties. You can also make your own skin!
-## About us
-We are a group of 3 romanian students at the Computer Science National College Grigore Moisil and we want to change the world with our programming
+![Banner](https://github.com/IstratieStefan/Eplusam/blob/main/Marketing/Eplusam%20Banner.png)
+# About
+
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/ "Go to GitHub Pages homepage")
+![maintained - yes](https://img.shields.io/badge/maintained-yes-blue)
+[![Not - Workng](https://img.shields.io/badge/Not-Workng-blue)](https://)
+
+Eplusam is a game about math where the player, a red dot needs to catch floating numbers. The goal is to reach a certain score
+
+# Compatibility
+
+- Android
+- Windows
+- Linux(not official)
+
+# Programs Used
+
+- Unity
+- VsCode
+- Aseprite
+- FlStudio
+
+
